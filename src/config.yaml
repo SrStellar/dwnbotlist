@@ -1,0 +1,21 @@
+token: "ODA2OTUxNDc5MTU5MDI5Nzkw.YBw6IQ.-tDtNGFiAXUpqSQS4j02urGl4Kk" # bot token
+invite: "https://discord.gg/pahgGtCHrq" #support server invite
+prefix: "dwl." #bot prefix
+mongo: "mongodb+srv://stellarbot:srstellar17@cluster0.xjsrv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" # mongo db url
+guilds:
+    main: "801536127806078996" #main guild id
+    testing: "825465622183673887" #guild id for testing
+channels:
+    logs: "826482627162275840" #channel id of log channel
+roles:
+    bottester: "802305409771372554" #role id of bot testers
+    bots: "826483829530165268" #role id of bots
+    developers: "801937196515983380" #role id of bot developer
+port: 4000
+bot:
+    id: "806951479159029790" #bot id
+    secret: "r2E45g44G0X9qLOSmJvi_txWzpj-R5Bp" #bot secret
+    redirect: "https://dwnbotlist.tk/oauth/callback" #https://<url>/auth/callback
+    scopes:
+         - identify
+         - guilds.join
