@@ -20,7 +20,7 @@
     "passport": "^0.4.1",
     "passport-discord": "^0.1.4",
     "yaml": "^1.10.0",
-    "mongoose": "^5.10.14",
+    "mongoose": "^6.16.13",
     "connect-sqlite3": "^0.9.11",
     "quick.db": "^7.1.2"
   },
